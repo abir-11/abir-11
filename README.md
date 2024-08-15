@@ -51,7 +51,7 @@ Skills: C / Java /  BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abir-11/Java-Project)
+[![abir-11](https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=abir-11&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/abir-11/Java-Project)https://github.com/abir-11/abir-11
 
 <p align="left">
   <a href="https://github.com/abir-11?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
