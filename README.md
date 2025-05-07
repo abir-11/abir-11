@@ -8,7 +8,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abir-11&color=red)
 
-Skills: C / Java / HTML / CSS/ BOOTSTRAP /Tailwind/ JS / REACT /
+Skills: C / C++/ Java / HTML / CSS/ BOOTSTRAP /Tailwind/ JS / REACT 
 
 </div>
 
