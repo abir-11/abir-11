@@ -8,17 +8,17 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=abir-11&color=red)
 
-Skills: C / C++/ Java / HTML / CSS/ BOOTSTRAP /Tailwind/ JS / REACT 
+Skills: C / C++/ DSA / JavaScript / HTML / CSS/ BOOTSTRAP / Tailwind/ JS / REACT 
 
 </div>
 
-- 🔭 I’m currently learning on [Hablu Programmer](https://www.hablu-programmer.com/)
+- 🔭 I’m currently learning on [Programmering Hero](https://web.programming-hero.com/)
 
-- 🌱 I’m currently learning Golang, Java, C++,Js
+- 🌱 I’m currently learning Golang, DSA
 
 - 👨‍💻 All of my projects are available at [https://github.com/abir-11](https://github.com/abir-11)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
+- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,Tailwind,React,**
 
 - 📫 How to reach me **malam2331103@bscse.uiu.ac.bd**
 
