@@ -51,14 +51,17 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 
 ## Best Repo -
 
-<p align="center">
+
+ <p align="center">
   <a href="https://github.com/abir-11/Digital-Life-Lessons-Client-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Client-Side&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Client-Side&theme=radical" alt="Client Side" />
   </a>
+  <br/>
   <a href="https://github.com/abir-11/Digital-Life-Lessons-Server-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Server-Side&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Server-Side&theme=radical" alt="Server Side" />
   </a>
 </p>
+
 
 <p align="center">
   🔗 <b>Live Website:</b>  
