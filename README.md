@@ -52,7 +52,8 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 ## Best Repo -
 
 
- <p align="center">
+ ### 1. 🎓 Digital Life Lessons (Education Platform)
+<p align="center">
   <a href="https://github.com/abir-11/Digital-Life-Lessons-Client-Side">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Client-Side&theme=radical" alt="Client Side" />
   </a>
@@ -62,13 +63,54 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
   </a>
 </p>
 
-
 <p align="center">
-  🔗 <b>Live Website:</b>  
-  <a href="https://tangerine-entremet-a297ff.netlify.app" target="_blank">
-    https://tangerine-entremet-a297ff.netlify.app
+    🚀 <b>Live Website:</b> 
+    <a href="https://tangerine-entremet-a297ff.netlify.app" target="_blank">Visit Site</a>
+</p>
+A full-stack MERN platform for sharing digital life lessons with integrated digital lesson create and
+listing management features.
+Key Features:
+• Secure user authentication using JWT and Firebase
+• Life lesson creation, listing, and access-level management
+• Fully responsive UI built with Tailwind CSS
+Technology Stack:
+React.js, Node.js, Express.js, MongoDB, Tailwind CS
+
+### 2. 🌾 My Krishi (Agriculture Portal)
+<p align="center">
+  <a href="https://github.com/abir-11/Client-side">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Client-side&theme=radical" alt="Client Side" />
+  </a>
+  <br/>
+  <a href="https://github.com/abir-11/Server-Side">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Server-Side&theme=radical" alt="Server Side" />
   </a>
 </p>
+
+<p align="center">
+    🚀 <b>Live Website:</b> 
+    <a href="https://celebrated-meringue-7399cb.netlify.app/" target="_blank">Visit Site</a>
+</p>
+
+My-KrishiLike
+A full-stack MERN platform supporting farmers and local communities to list and sell fruits and
+vegetables, with bidding and purchase features for users. Includes a community skill exchange module
+with skill listings, protected booking system, and Firebase authentication with Google login. Built with
+a fast, secure, and responsive UI and optimized backend APIs.
+Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB
+
+### 3. 🌳 Green Tree (Eco-Friendly Project)
+<p align="center">
+ Client site github respo has been Private that's way can't share it.
+
+<p align="center">
+    🚀 <b>Live Website:</b> 
+    <a href="https://stunning-stardust-4d280d.netlify.app" target="_blank">Visit Site</a>
+</p>
+A responsive web application where users can browse, purchase plants, and book plants in advance, featuring
+secure authentication and a clean, modern user interface.
+Technology: React.js, Tailwind CSS, Firebase Authentication
+
 
 <p align="left">
   <a href="https://github.com/abir-11?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
