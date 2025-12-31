@@ -27,7 +27,7 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 
 <p align="center">
 <a href="https://www.facebook.com/arafatalom.abir.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir-11" height="30" width="40" /></a>
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abir-11" height="30" width="40" /></a>
+<a href="https://x.com/arafat1abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abir-11" height="30" width="40" /></a>
 <a href="https://www.instagram.com/abir_._who/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir-11" height="30" width="40" /></a>
 </p>
 
@@ -102,11 +102,7 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 
 <div align="center">
 <br/>
-<a href="https://www.instagram.com/abir_._who/" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
-       alt="instagram"
-       style="margin-bottom: 5px; margin-right: 2px;" />
-</a>
+<a href="https://x.com/arafat1abir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abir-11" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abir-11/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
