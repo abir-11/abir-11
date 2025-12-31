@@ -1,24 +1,23 @@
-![I am abir-11](https://github.com/abir-11/abir-11/blob/main/code.png)
+![I am abir-11]([https://github.com/abir-11/abir-11/blob/main/code.png](https://i.ibb.co.com/35ZwB9C9/Chat-GPT-Image-Dec-31-2025-04-31-16-PM.png))
 
 <h1 align="center">Hi 👋, I'm Arafat Alam (Abir) </h1>
 <h3 align="center">Programmer | Web Developer</h3>
-<h4 align="center">I'm join at Hablu Programmer</h4>
-
+<h4 align="center">I'm currently  at programmering Hero</h4>
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=abir-11&color=red)
 
-Skills: C / C++/ DSA / JavaScript / HTML / CSS/ BOOTSTRAP / Tailwind/ REACT 
+Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.js / MongoDB / Firebase / JWT Authentication 
 
 </div>
 
 - 🔭 I’m currently learning on [Programmering Hero](https://web.programming-hero.com/)
 
-- 🌱 I’m currently learning Golang, DSA
+- 🌱 I’m currently learning Golang, DSA,NEXT.JS
 
 - 👨‍💻 All of my projects are available at [https://github.com/abir-11](https://github.com/abir-11)
 
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap,Tailwind,React,**
+- 💬 Ask me about **HTML5, CSS3,JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT Authenticationt**
 
 - 📫 How to reach me **malam2331103@bscse.uiu.ac.bd**
 
@@ -26,9 +25,9 @@ Skills: C / C++/ DSA / JavaScript / HTML / CSS/ BOOTSTRAP / Tailwind/ REACT
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
-<a href="https://facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir-11" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arafatalom.abir.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abir-11" height="30" width="40" /></a>
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abir-11" height="30" width="40" /></a>
-<a href="https://instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir-11" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abir_._who/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abir-11" height="30" width="40" /></a>
 </p>
 
 ## Use To Code
@@ -85,13 +84,15 @@ Skills: C / C++/ DSA / JavaScript / HTML / CSS/ BOOTSTRAP / Tailwind/ REACT
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/abir-11" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
+<a href="https://www.instagram.com/abir_._who/" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"
+       alt="instagram"
+       style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/abir-11/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
-<a href="https://www.facebook.com/abir-11" target="_blank">
+<a href="https://www.facebook.com/arafatalom.abir.1" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px; margin-right: 2px;" />
 </a>  
 </div>
