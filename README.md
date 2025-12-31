@@ -66,13 +66,13 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
     <a href="https://tangerine-entremet-a297ff.netlify.app" target="_blank">Visit Site</a>
 </p>
 A full-stack MERN platform for sharing digital life lessons with integrated digital lesson create and
-listing management features.
-Key Features:
-• Secure user authentication using JWT and Firebase
-• Life lesson creation, listing, and access-level management
+listing management features.<br/>
+Key Features:<br/>
+• Secure user authentication using JWT and Firebase <br/>
+• Life lesson creation, listing, and access-level management <br/>
 • Fully responsive UI built with Tailwind CSS
-Technology Stack:
-React.js, Node.js, Express.js, MongoDB, Tailwind CS
+<br/>
+Technology Stack:React.js, Node.js, Express.js, MongoDB, Tailwind CS
 
 ### 2. 🌾 My Krishi (Agriculture Portal)
 <p align="center">
@@ -90,11 +90,12 @@ React.js, Node.js, Express.js, MongoDB, Tailwind CS
     <a href="https://celebrated-meringue-7399cb.netlify.app/" target="_blank">Visit Site</a>
 </p>
 
-My-KrishiLike
+My-KrishiLike<br/>
 A full-stack MERN platform supporting farmers and local communities to list and sell fruits and
 vegetables, with bidding and purchase features for users. Includes a community skill exchange module
 with skill listings, protected booking system, and Firebase authentication with Google login. Built with
-a fast, secure, and responsive UI and optimized backend APIs.
+a fast, secure, and responsive UI and optimized backend APIs. <br/>
+
 Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB
 
 ### 3. 🌳 Green Tree (Eco-Friendly Project)
@@ -106,7 +107,8 @@ Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js
     <a href="https://stunning-stardust-4d280d.netlify.app" target="_blank">Visit Site</a>
 </p>
 A responsive web application where users can browse, purchase plants, and book plants in advance, featuring
-secure authentication and a clean, modern user interface.
+secure authentication and a clean, modern user interface.<br/>
+
 Technology: React.js, Tailwind CSS, Firebase Authentication
 
 <br/>
