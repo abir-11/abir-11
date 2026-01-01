@@ -65,6 +65,12 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
     🚀 <b>Live Website:</b> 
     <a href="https://tangerine-entremet-a297ff.netlify.app" target="_blank">Visit Site</a>
 </p>
+
+Admin role check: </b> 
+userName:Abir </b> 
+email:abir@12.com </b> 
+password:abir123!@#A </b> 
+
 A full-stack MERN platform for sharing digital life lessons with integrated digital lesson create and
 listing management features.<br/>
 Key Features:<br/>
