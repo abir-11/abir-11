@@ -63,7 +63,7 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 
 <p align="center">
     🚀 <b>Live Website:</b> 
-    <a href="https://tangerine-entremet-a297ff.netlify.app" target="_blank">Visit Site</a>
+    <a href="https://idyllic-daffodil-529a0f.netlify.app/" target="_blank">Visit Site</a>
 </p>
 
 Admin role check: </b> 
@@ -110,12 +110,12 @@ Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js
 
 <p align="center">
     🚀 <b>Live Website:</b> 
-    <a href="https://stunning-stardust-4d280d.netlify.app" target="_blank">Visit Site</a>
+    <a href="https://green-nest-ten.vercel.app/" target="_blank">Visit Site</a>
 </p>
 A responsive web application where users can browse, purchase plants, and book plants in advance, featuring
 secure authentication and a clean, modern user interface.<br/>
 
-Technology: React.js, Tailwind CSS, Firebase Authentication
+Technology: Next.js, Tailwind CSS, Firebase Authentication
 
 <br/>
 
