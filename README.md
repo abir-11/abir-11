@@ -93,7 +93,7 @@ Technology Stack:React.js, Node.js, Express.js, MongoDB, Tailwind CS
 
 <p align="center">
     🚀 <b>Live Website:</b> 
-    <a href="https://harmonious-starburst-2d3242.netlify.app/" target="_blank">Visit Site</a>
+    <a href="https://symphonious-sprinkles-5f85d5.netlify.app/" target="_blank">Visit Site</a>
 </p>
 
 My-KrishiLike<br/>
