@@ -2,23 +2,39 @@
 
 
 <h1 align="center">Hi 👋, I'm Arafat Alam (Abir) </h1>
-<h3 align="center">Programmer | Web Developer</h3>
-<h4 align="center">I'm currently  at programmering Hero</h4>
+<h3 align="center">Full Stack Developer | React.js • Next.js • Node.js • Express.js • PostgreSQL • Prisma • MongoDB</h3>
+<h4 align="center">
+Building modern full-stack web applications with React, Next.js, Node.js, Express.js, PostgreSQL, Prisma & MongoDB 🚀
+</h4>
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=abir-11&color=red)
 
-Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.js / MongoDB / Firebase / JWT Authentication 
+Skills:
+C • C++
+JavaScript • TypeScript
+React.js • Next.js
+Node.js • Express.js
+MongoDB • PostgreSQL • Prisma
+Firebase
+JWT Authentication
+REST API
+Tailwind CSS
+Git & GitHub
 
 </div>
 
 - 🔭 I’m currently learning on [Programmering Hero](https://web.programming-hero.com/)
 
-- 🌱 I’m currently learning Golang, DSA,NEXT.JS
+- 🌱 I’m currently learning
+- Advanced DSA
+- System Design
+- Docker
+- AWS (Basics)
 
 - 👨‍💻 All of my projects are available at [https://github.com/abir-11](https://github.com/abir-11)
 
-- 💬 Ask me about **HTML5, CSS3,JavaScript, React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Firebase, JWT Authenticationt**
+- 💬 Ask me about **React.js Next.js Node.js Express.js TypeScript MongoDB PostgreSQL Prisma ORM JWT Authentication REST API Tailwind CSS**
 
 - 📫 How to reach me **malam2331103@bscse.uiu.ac.bd**
 
@@ -33,17 +49,35 @@ Skills: C / C++/ DSA / JavaScript / React.js / Tailwind CSS / Node.js / Express.
 
 ## Use To Code
 
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### 🌱 Currently Learning
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 <br/>
 
