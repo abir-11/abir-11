@@ -1,4 +1,4 @@
-![I am abir-11](https://ibb.co.com/k6ksgQc6)
+![I am abir-11](https://res.cloudinary.com/drm4k2vxt/image/upload/v1784198889/Black_and_White_Gradient_Personal_LinkedIn_Banner_ddgvci.png)
 
 
 <h1 align="center">Hi 👋, I'm Arafat Alam (Abir) </h1>
