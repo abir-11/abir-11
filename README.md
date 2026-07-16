@@ -1,4 +1,4 @@
-![I am abir-11](https://i.ibb.co.com/35ZwB9C9/Chat-GPT-Image-Dec-31-2025-04-31-16-PM.png)
+![I am abir-11](https://ibb.co.com/k6ksgQc6)
 
 
 <h1 align="center">Hi 👋, I'm Arafat Alam (Abir) </h1>
