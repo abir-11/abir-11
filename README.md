@@ -83,21 +83,66 @@ Git & GitHub
 
 ## Best Repo -
 
-
- ### 1. 🎓 Digital Life Lessons (Education Platform)
+### 1. 🌳 Green Tree (Eco-Friendly Project)
 <p align="center">
-  <a href="https://github.com/abir-11/Digital-Life-Lessons-Client-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Client-Side&theme=radical" alt="Client Side" />
-  </a>
+    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784199951/1770043947154_eoppl3.jpg" alt="Client Side" />
   <br/>
-  <a href="https://github.com/abir-11/Digital-Life-Lessons-Server-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Digital-Life-Lessons-Server-Side&theme=radical" alt="Server Side" />
-  </a>
+ 
+</p>
+<p align="center">
+ 
+
+<p align="center">
+    🚀 <b>Live Website:</b> 
+    <a href="https://green-nest-ten.vercel.app/" target="_blank">Visit Site</a><br/>
+    <a href="https://github.com/abir-11/Green-Planted.git"> Client-Side </a>  <br/>
+</p>
+A responsive web application where users can browse, purchase plants, and book plants in advance, featuring
+secure authentication and a clean, modern user interface.<br/>
+
+Technology: Next.js, Tailwind CSS, Firebase Authentication,Supabase(backend)
+
+<br/>
+
+
+
+
+
+
+### 2. 🌾 My Krishi (Agriculture Portal)
+<p align="center">
+    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200104/1767550824980_r358hb.jpg" alt="Client Side" />
+  <br/>
+ 
 </p>
 
 <p align="center">
     🚀 <b>Live Website:</b> 
-    <a href="https://idyllic-daffodil-529a0f.netlify.app/" target="_blank">Visit Site</a>
+    <a href="https://symphonious-sprinkles-5f85d5.netlify.app/" target="_blank">Visit Site</a>  <br/>
+    <a href="https://github.com/abir-11/Client-side"> Client-Side </a>  <br/>
+     <a href="https://github.com/abir-11/Server-Side">Server-Side</a>
+</p>
+
+My-KrishiLike<br/>
+A full-stack MERN platform supporting farmers and local communities to list and sell fruits and
+vegetables, with bidding and purchase features for users. Includes a community skill exchange module
+with skill listings, protected booking system, and Firebase authentication with Google login. Built with
+a fast, secure, and responsive UI and optimized backend APIs. <br/>
+
+Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB
+
+ ### 3. 🎓 Digital Life Lessons (Education Platform)
+<p align="center">
+    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200903/1767289733860_ekzcio.jpg" alt="Client Side" />
+
+  <br/>
+</p>
+
+<p align="center">
+    🚀 <b>Live Website:</b> 
+    <a href="https://idyllic-daffodil-529a0f.netlify.app/" target="_blank">Visit Site</a> <br/>
+    <a href="https://github.com/abir-11/Digital-Life-Lessons-Client-Side.git"> Client-Side </a>  <br/>
+    <a href="https://github.com/abir-11/Digital-Life-Lessons-Server-Side.git">Server-Side</a>
 </p>
 
 Admin role check: </b> 
@@ -114,45 +159,7 @@ Key Features:<br/>
 <br/>
 Technology Stack:React.js, Node.js, Express.js, MongoDB, Tailwind CS
 
-### 2. 🌾 My Krishi (Agriculture Portal)
-<p align="center">
-  <a href="https://github.com/abir-11/Client-side">
-    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200104/1767550824980_r358hb.jpg" alt="Client Side" />
-  </a>
-  <br/>
-  <a href="https://github.com/abir-11/Server-Side">
-  </a>
-</p>
-
-<p align="center">
-    🚀 <b>Live Website:</b> 
-    <a href="https://symphonious-sprinkles-5f85d5.netlify.app/" target="_blank">Visit Site</a>
-</p>
-
-My-KrishiLike<br/>
-A full-stack MERN platform supporting farmers and local communities to list and sell fruits and
-vegetables, with bidding and purchase features for users. Includes a community skill exchange module
-with skill listings, protected booking system, and Firebase authentication with Google login. Built with
-a fast, secure, and responsive UI and optimized backend APIs. <br/>
-
-Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB
-
-### 3. 🌳 Green Tree (Eco-Friendly Project)
-<p align="center">
- Client site github respo has been Private that's way can't share it.
-
-<p align="center">
-    🚀 <b>Live Website:</b> 
-    <a href="https://green-nest-ten.vercel.app/" target="_blank">Visit Site</a>
-</p>
-A responsive web application where users can browse, purchase plants, and book plants in advance, featuring
-secure authentication and a clean, modern user interface.<br/>
-
-Technology: Next.js, Tailwind CSS, Firebase Authentication
-
 <br/>
-
-
 <p align="left">
   <a href="https://github.com/abir-11?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
