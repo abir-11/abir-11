@@ -117,11 +117,10 @@ Technology Stack:React.js, Node.js, Express.js, MongoDB, Tailwind CS
 ### 2. 🌾 My Krishi (Agriculture Portal)
 <p align="center">
   <a href="https://github.com/abir-11/Client-side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Client-side&theme=radical" alt="Client Side" />
+    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200104/1767550824980_r358hb.jpg" alt="Client Side" />
   </a>
   <br/>
   <a href="https://github.com/abir-11/Server-Side">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abir-11&repo=Server-Side&theme=radical" alt="Server Side" />
   </a>
 </p>
 
