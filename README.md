@@ -83,7 +83,47 @@ Git & GitHub
 
 ## Best Repo -
 
-### 1. 🌳 Green Tree (Eco-Friendly Project)
+
+### 1. 🎓 Online-Secure-Exam (Education Platform)
+<p align="center">
+    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200903/1767289733860_ekzcio.jpg" alt="Client Side" />
+
+  <br/>
+</p>
+
+<p align="center">
+    🚀 <b>Live Website:</b> 
+    <a href="https://secure-exam-online-examination-plat-jade.vercel.app/" target="_blank">Visit Site</a> <br/>
+    <a href="https://github.com/abir-11/online-secure-exam.git"> Client-Side </a>  <br/>
+</p>
+
+🎓 Online Secure Exam Platform (Team Project)
+
+A full-stack examination management platform that enables students, teachers, and administrators to securely manage online examinations. The platform provides role-based access control, exam creation, student participation, and administrative management through a modern, responsive interface.
+
+My Role (Project Manager)
+
+Led the project planning, task distribution, and team coordination.
+Designed and developed the complete frontend UI.
+Built major backend features and REST APIs.
+Implemented secure authentication and authorization using JWT and Firebase Authentication.
+
+Key Features
+
+🔐 Secure authentication with JWT and Firebase Authentication
+👨‍🎓 Student Panel: Register/Login, participate in exams, view results, and track exam history
+👨‍🏫 Teacher Panel: Create and manage exams, add questions, publish results, and monitor student performance
+👨‍💼 Admin Panel: Manage users, teachers, students, exams, and platform settings with role-based access control
+📊 Role-based dashboard with protected routes
+📱 Fully responsive UI built with Tailwind CSS
+⚡ Real-time validation and smooth user experience
+
+Technology Stack:
+Next.js,Node.js, Express.js, MongoDB, JWT, Firebase Authentication, Tailwind CSS
+
+<br/>
+
+### 2. 🌳 Green Tree (Eco-Friendly Project)
 <p align="center">
     <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784199951/1770043947154_eoppl3.jpg" alt="Client Side" />
   <br/>
@@ -104,12 +144,7 @@ Technology: Next.js, Tailwind CSS, Firebase Authentication,Supabase(backend)
 
 <br/>
 
-
-
-
-
-
-### 2. 🌾 My Krishi (Agriculture Portal)
+### 3. 🌾 My Krishi (Agriculture Portal)
 <p align="center">
     <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200104/1767550824980_r358hb.jpg" alt="Client Side" />
   <br/>
@@ -131,33 +166,7 @@ a fast, secure, and responsive UI and optimized backend APIs. <br/>
 
 Technology: React.js, Tailwind CSS, Firebase Authentication, Node.js, Express.js, MongoDB
 
- ### 3. 🎓 Digital Life Lessons (Education Platform)
-<p align="center">
-    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200903/1767289733860_ekzcio.jpg" alt="Client Side" />
 
-  <br/>
-</p>
-
-<p align="center">
-    🚀 <b>Live Website:</b> 
-    <a href="https://idyllic-daffodil-529a0f.netlify.app/" target="_blank">Visit Site</a> <br/>
-    <a href="https://github.com/abir-11/Digital-Life-Lessons-Client-Side.git"> Client-Side </a>  <br/>
-    <a href="https://github.com/abir-11/Digital-Life-Lessons-Server-Side.git">Server-Side</a>
-</p>
-
-Admin role check: </b> 
-userName:Abir </b> 
-email:abir@12.com </b> 
-password:abir123!@#A </b> 
-
-A full-stack MERN platform for sharing digital life lessons with integrated digital lesson create and
-listing management features.<br/>
-Key Features:<br/>
-• Secure user authentication using JWT and Firebase <br/>
-• Life lesson creation, listing, and access-level management <br/>
-• Fully responsive UI built with Tailwind CSS
-<br/>
-Technology Stack:React.js, Node.js, Express.js, MongoDB, Tailwind CS
 
 <br/>
 <p align="left">
