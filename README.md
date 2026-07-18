@@ -86,7 +86,7 @@ Git & GitHub
 
 ### 1. 🎓 Online-Secure-Exam (Education Platform)
 <p align="center">
-    <img src="https://res.cloudinary.com/drm4k2vxt/image/upload/v1784200903/1767289733860_ekzcio.jpg" alt="Client Side" />
+    <img src="https://res.cloudinary.com/zuclzwuy/image/upload/v1784352460/secure-exam-online-examination-plat-jade.vercel.app__1_sbk1ab.png" alt="Client Side" />
 
   <br/>
 </p>
